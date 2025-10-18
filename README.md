@@ -256,7 +256,7 @@ Run tests automatically in CI/CD
 ***
 
 <p align="center">
-  <a href="https://github.com/vikas-jadhav/Fullstack-testing-lab">Vikas Jadhav</a>
+  <a href="https://github.com/gitwithvikas/Fullstack-testing-lab">Vikas Jadhav</a>
 </p>
 
 
